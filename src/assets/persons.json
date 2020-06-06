@@ -12548,3 +12548,19 @@
       }
   ]
 }
+ ,{
+    "id": 869,
+    "name": "Fems Seimiekumo Solomon",
+    "img": "",
+    "links": {
+      "website": "",
+      "linkedin": "https://www.linkedin.com/in/seimiekumo-solomon-fems-4a3aa884/",
+      "github": "https://github.com/sliemking"
+    },
+    "jobTitle": "Sfull Stack Web Developer",
+    "location": {
+      "city": "Yenagoa",
+      "state": "Bayelsa",
+      "country": "Nigeria"
+    }
+  }
